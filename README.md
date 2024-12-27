@@ -5,8 +5,6 @@
 
 Here are the first 12 Projects I want to complete not initially in order but within time I want to complete these. As I beleive some of these tools and features can be employed succesfully in the future.
 
----------------------------------------------
-
 -------------------------------------------------------------------------------------------
 Level 1 | Basic Informatics
 ------------------------------------------------|------------------------------------------
